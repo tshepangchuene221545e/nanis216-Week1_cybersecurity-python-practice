@@ -1,11 +1,11 @@
 Cybersecurity Python Practice
 
-##Repository Purpose
+Repository Purpose
 This repository contains Python practice exercises completed as part of the **freeCodeCamp Scientific Computing with Python certification** for Week 1.
 
 The exercises demonstrate fundamental Python concepts required for cybersecurity scripting and automation.
 
-##Files Included
+Files Included
 **Variables.py**
 Demonstrates variables, data types and output statements.
 
